@@ -449,7 +449,7 @@ HTML = '''<!DOCTYPE html>
 </div>
 
 <footer>
-  BlockVerify • SHA-256 + Proof-of-Work + IPFS • Built by Anubhav pati and Subham Mishra 
+  BlockVerify • Built by Anubhav pati and Subham Mishra 
   <br/>
   <p>This is our github profiles </p>
   <a href="https://github.com/Anubhav-axt" target="_blank">Anubhav pati</a> | <a href="https://github.com/subham23s" target="_blank">Subham Mishra</a>
