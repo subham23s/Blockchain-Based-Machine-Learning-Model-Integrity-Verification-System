@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 iris_model.joblib
 .vscode/
+.env
+latest_cid.txt
