@@ -6,3 +6,5 @@ iris_model.joblib
 .vscode/
 .env
 latest_cid.txt
+users.json
+uploaded_files/
